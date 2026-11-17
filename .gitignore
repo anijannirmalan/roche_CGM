@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data: never commit (AI4FoodDB licence: research use only)
+data/*
+!data/README.md
+
+# OS clutter
+.DS_Store
+Thumbs.db
